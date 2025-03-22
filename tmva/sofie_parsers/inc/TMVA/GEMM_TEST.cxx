@@ -36,3 +36,7 @@ int main() {
 
    return 0;
 }
+
+// The output of this code is:
+// 58 64
+// 139 154
